@@ -1,0 +1,38 @@
+body{
+  background: #ffb74d
+  
+}
+
+#nav1{
+  margin-bottom: 80px;
+  background-color: white;
+
+}
+
+#display1{
+  /* font-size: 30px; */
+  margin: 20px
+
+}
+
+#main1, #main2, #main3{
+  display: flex;
+  background-color: transparent;
+  border-radius: 4px;
+  border: 1px solid #bbb;
+
+}
+
+#main2{
+  background-color: transparent;
+  border-radius: 4px;
+  border: 1px solid #bbb;
+
+}
+
+#main3{
+  background-color: transparent;
+  border-radius: 4px;
+  border: 1px solid #bbb;
+
+}
